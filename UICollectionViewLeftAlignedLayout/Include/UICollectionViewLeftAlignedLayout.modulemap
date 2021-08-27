@@ -1,0 +1,4 @@
+module UICollectionViewLeftAlignedLayout {
+  header "UICollectionViewLeftAlignedLayout.h"
+  export *
+}
